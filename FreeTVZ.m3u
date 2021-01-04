@@ -799,12 +799,6 @@ http://stream1.dootvgun.com:5555/live/stream/sports/1.m3u8
 https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8
 
 #EXTINF:-1, tvg-id="7000" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg" tvg-name="Premier HD1"  group-title="7.Sports",Premier HD1
-http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8\
-
-#EXTINF:-1, tvg-id="7000" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg" tvg-name="Premier HD1"  group-title="7.Sports",Premier HD1
-http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-id="7000" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg" tvg-name="Premier HD1"  group-title="7.Sports",Premier HD1
 https://www.we-play.tv/watching/tv/true-premier-football-hd-1
 
 #EXTINF:-1, tvg-id="7000" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg" tvg-name="Premier HD1"  group-title="7.Sports",Premier HD1
