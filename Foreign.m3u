@@ -1,0 +1,317 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/N8YdX6W.png" tvg-name="Aniu TV"  group-title="CHINA",Aniu TV
+http://cclive.aniu.tv/live/anzb.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/R6F6NEb.png" tvg-name="BestTV UHD"  group-title="CHINA",BestTV UHD
+http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/R6F6NEb.png" tvg-name="BesTV 4K"  group-title="CHINA",BesTV 4K
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1综合.png" tvg-name="CCTV-01"  group-title="CHINA",CCTV-01
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1综合.png" tvg-name="CCTV-01"  group-title="CHINA",CCTV-01
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV-02"  group-title="CHINA",CCTV-02
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv2_2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CCTV-2_财经.svg/1200px-CCTV-2_财经.svg.png" tvg-name="CCTV-02"  group-title="CHINA",CCTV-02
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV-03"  group-title="CHINA",CCTV-03
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv3_2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/FiTPyCa.png" tvg-name="CCTV-03 (Opt-1)"  group-title="CHINA",CCTV-03 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/FiTPyCa.png" tvg-name="CCTV-03 (Opt-2)"  group-title="CHINA",CCTV-03 (Opt-2)
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV-04"  group-title="CHINA",CCTV-04
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Ox1hX8q.png" tvg-name="CCTV-04 (Opt-1)"  group-title="CHINA",CCTV-04 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Ox1hX8q.png" tvg-name="CCTV-04 (Opt-2)"  group-title="CHINA",CCTV-04 (Opt-2)
+http://45.126.83.51/qwr9ew/s/s19/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5体育.png" tvg-name="CCTV-05"  group-title="CHINA",CCTV-05
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV-06"  group-title="CHINA",CCTV-06
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv6_2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6电影.png" tvg-name="CCTV-06"  group-title="CHINA",CCTV-06
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV-07"  group-title="CHINA",CCTV-07
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv7_2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/CCTV-7军事农业.png" tvg-name="CCTV-07"  group-title="CHINA",CCTV-07
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV-08"  group-title="CHINA",CCTV-08
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv8_2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8电视剧.png" tvg-name="CCTV-08"  group-title="CHINA",CCTV-08
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV-09"  group-title="CHINA",CCTV-09
+https://cctvcnchwh5ca.v.cdn20.com/live/cctvjilu_2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CCTV-9纪录.png" tvg-name="CCTV-09"  group-title="CHINA",CCTV-09
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10科教.png" tvg-name="CCTV-10"  group-title="CHINA",CCTV-10
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv10_2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10科教.png" tvg-name="CCTV-10"  group-title="CHINA",CCTV-10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/svQpgoL.png" tvg-name="CCTV-11"  group-title="CHINA",CCTV-11
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv11_2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/svQpgoL.png" tvg-name="CCTV-11"  group-title="CHINA",CCTV-11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12社会与法.png" tvg-name="CCTV-12"  group-title="CHINA",CCTV-12
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv12_2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12社会与法.png" tvg-name="CCTV-12"  group-title="CHINA",CCTV-12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ksFTF0t.png" tvg-name="CCTV-13"  group-title="CHINA",CCTV-13
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv13_2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ksFTF0t.png" tvg-name="CCTV-13 (Opt-1)"  group-title="CHINA",CCTV-13 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ksFTF0t.png" tvg-name="CCTV-13 (Opt-2)"  group-title="CHINA",CCTV-13 (Opt-2)
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ksFTF0t.png" tvg-name="CCTV-13 (Opt-3)"  group-title="CHINA",CCTV-13 (Opt-3)
+rtmp://124.88.36.91:1935/live/cctv
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14少儿.png" tvg-name="CCTV-14"  group-title="CHINA",CCTV-14
+https://cctvakhwh5ca-cntv.akamaized.net/live/cctvchild_2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14少儿.png" tvg-name="CCTV-14"  group-title="CHINA",CCTV-14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15音乐.png" tvg-name="CCTV-15"  group-title="CHINA",CCTV-15
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv15_2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15音乐.png" tvg-name="CCTV-15"  group-title="CHINA",CCTV-15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV-17"  group-title="CHINA",CCTV-17
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv17_2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/aaviUTw.png" tvg-name="Dragon Television"  group-title="CHINA",Dragon Television
+http://45.126.83.51/qwr9ew/s/s29/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/PD5aLJH.png" tvg-name="Hebei TV"  group-title="CHINA",Hebei TV
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/zZqXfgb.png" tvg-name="Kaku Kids TV (New!)"  group-title="CHINA",Kaku Kids TV (New!)
+http://223.110.242.130:6610/cntv/live1/kakukaton/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/kEcxOLc.png" tvg-name="Max Financial Media"  group-title="CHINA",Max Financial Media
+http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://m3u-iptv.ru/wp-content/uploads/2016/11/tv-300x294.png" tvg-name="Nongan News"  group-title="CHINA",Nongan News
+http://stream2.jlntv.cn/naxw/sd/live.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.simpsonswiki.com/images/4/4b/Xing_Kong.png" tvg-name="Star TV"  group-title="CHINA",Star TV
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/aM6u55u.png" tvg-name="Tonghua TV 1 Jilin"  group-title="CHINA",Tonghua TV 1 Jilin
+http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/YojAv3d.png" tvg-name="Toon Max TV (Opt-1)"  group-title="CHINA",Toon Max TV (Opt-1)
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/YojAv3d.png" tvg-name="Toon Max TV (Opt-2)"  group-title="CHINA",Toon Max TV (Opt-2)
+http://45.126.83.51/qwr9ew/s/s50/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/LcJZVV5.png" tvg-name="Xuzhou TV 1 Shanghai (Opt-1)"  group-title="CHINA",Xuzhou TV 1 Shanghai (Opt-1)
+http://183.207.249.15/PLTV/3/224/3221225945/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/LcJZVV5.png" tvg-name="Xuzhou TV 1 Shanghai (Opt-2)"  group-title="CHINA",Xuzhou TV 1 Shanghai (Opt-2)
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/LcJZVV5.png" tvg-name="Xuzhou TV 2 Shanghai"  group-title="CHINA",Xuzhou TV 2 Shanghai
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/LcJZVV5.png" tvg-name="Xuzhou TV 3 Shanghai"  group-title="CHINA",Xuzhou TV 3 Shanghai
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/LcJZVV5.png" tvg-name="Xuzhou TV 4 Shanghai"  group-title="CHINA",Xuzhou TV 4 Shanghai
+http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/PDzWK3L.png" tvg-name="Yushu TV Jilin (Opt-1)"  group-title="CHINA",Yushu TV Jilin (Opt-1)
+http://stream.zhystv.com/yset/sd/live.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/PDzWK3L.png" tvg-name="Yushu TV Jilin (Opt-2)"  group-title="CHINA",Yushu TV Jilin (Opt-2)
+http://stream.zhystv.com/ysyt/sd/live.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ogFbu15.png" tvg-name="Bright Smart Channel (Opt-2)"  group-title="HONG KONG",Bright Smart Channel (Opt-2)
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ogFbu15.png" tvg-name="Bright Smart Channel (Opt-3)"  group-title="HONG KONG",Bright Smart Channel (Opt-3)
+rtmp://202.69.69.180:443/webcast/bshdlive-pc
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/oIRxwu9.png" tvg-name="Hong Kong Open TV (Opt-1)"  group-title="HONG KONG",Hong Kong Open TV (Opt-1)
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/oIRxwu9.png" tvg-name="Hong Kong Open TV (Opt-2)"  group-title="HONG KONG",Hong Kong Open TV (Opt-2)
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/vt2s5Tk.png" tvg-name="Phoenix (Opt-1)"  group-title="HONG KONG",Phoenix (Opt-1)
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/vt2s5Tk.png" tvg-name="Phoenix (Opt-2)"  group-title="HONG KONG",Phoenix (Opt-2)
+http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/H36G8wZ.png" tvg-name="RTHK TV 31 (Opt-1)"  group-title="HONG KONG",RTHK TV 31 (Opt-1)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/H36G8wZ.png" tvg-name="RTHK TV 31 (Opt-2)"  group-title="HONG KONG",RTHK TV 31 (Opt-2)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/H36G8wZ.png" tvg-name="RTHK TV 31 (Opt-3)"  group-title="HONG KONG",RTHK TV 31 (Opt-3)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/gCQfNii.png" tvg-name="Universal TV"  group-title="HONG KONG",Universal TV
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-065559.jpg" tvg-name="wakuwaku japan"  group-title="JAPAN",wakuwaku japan
+https://www.we-play.tv/watching/tv/waku-waku-japan
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" tvg-name="Weather News"  group-title="JAPAN",Weather News
+http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" tvg-name="Weather News"  group-title="JAPAN",Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/tYZz5CC.png" tvg-name="WeatherNews"  group-title="JAPAN",WeatherNews
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/9VXxnlo.png" tvg-name="WeatherNews-ウェザーニュース"  group-title="JAPAN",WeatherNews-ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRED4q0h589eD4JqRRdOnUnD3PFEWM07NGqh8CfuM7bh9Q_KV_r2MTs17tA&s=10" tvg-name="BS Asahi"  group-title="JP-KR",BS Asahi
+http://203.162.235.41:16914
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRv2P3i5GJEbDGq91Sq8UQ_eawem5KzkBqkVx3qJ9dQg5pixmi&usqp=CAU" tvg-name="BS Fuji"  group-title="JP-KR",BS Fuji
+http://203.162.235.41:16911
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzzD3ZzH7BPugY1TxcDPIO42bYIdM1PuRCuyceeINSHhqBtAUJ&usqp=CAU" tvg-name="BS JP-KR"  group-title="JP-KR",BS JP-KR
+http://203.162.235.41:16915
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/320px-BS4_logo.svg.png" tvg-name="BS NTV"  group-title="JP-KR",BS NTV
+http://203.162.235.41:16912
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqhGDHOq-dm--yaeWpwAiInDea-dMnsiVJehDHumPqJIM8Nxq&usqp=CAU" tvg-name="BS TBS"  group-title="JP-KR",BS TBS
+http://203.162.235.41:16913
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" tvg-name="CGNTV JP-KR"  group-title="JP-KR",CGNTV JP-KR
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy4lfQSzkRHXg42Pwmv500FM4vBfoGwDrPks8kwRTglnNCt8bDCTP3q2sn&s=10" tvg-name="Golf Network"  group-title="JP-KR",Golf Network
+http://203.162.235.41:16924
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6y2cYiA8X-mfObfOrIWMl6TZfcuYD9vJxOuGv-Au4qUwHfgaV&usqp=CAU" tvg-name="GSTV"  group-title="JP-KR",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" tvg-name="JP-KRet Channel DX"  group-title="JP-KR",JP-KRet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093651.jpg" tvg-name="JTBC"  group-title="JP-KR",JTBC
+https://iptvhome-ra2eye.cdn.byteark.com/JTBC/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093107.jpg" tvg-name="KBS1"  group-title="JP-KR",KBS1
+https://iptvhome-ra2eye.cdn.byteark.com/KBS1/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093118.jpg" tvg-name="KBS2"  group-title="JP-KR",KBS2
+https://iptvhome-ra2eye.cdn.byteark.com/KBS2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093247.jpg" tvg-name="MBC"  group-title="JP-KR",MBC
+https://iptvhome-ra2eye.cdn.byteark.com/MBC/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093704.jpg" tvg-name="MBN"  group-title="JP-KR",MBN
+https://iptvhome-ra2eye.cdn.byteark.com/MBN/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/967Ud6N.png" tvg-name="MBS"  group-title="JP-KR",MBS
+http://203.162.235.41:16910
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://thaiip.tv/tvlogo2/nhk.png" tvg-name="NHK General"  group-title="JP-KR",NHK General
+http://203.162.235.41:16903
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-name="NHK World JP-KR live"  group-title="JP-KR",NHK World JP-KR live
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://thaiip.tv/tvlogo2/nhk.png" tvg-name="NHK World Premium"  group-title="JP-KR",NHK World Premium
+http://203.162.235.41:16901
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdEVI6-GzViLGrTPM2EGbiieZrc2PWl_1tPxSi1lWvvH7AUMCx&usqp=CAU" tvg-name="Nippon TV"  group-title="JP-KR",Nippon TV
+http://203.162.235.41:16905
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSu89C3UmQsQiIgGLbiHfxfHHgvUGF63wPqkGDj88suHRVWwwfK&usqp=CAU" tvg-name="NJPW World"  group-title="JP-KR",NJPW World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" tvg-name="NTV News24"  group-title="JP-KR",NTV News24
+https://www.news24.jp/livestream/index.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" tvg-name="NTV News24"  group-title="JP-KR",NTV News24
+http://www.news24.jp/livestream/index.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-094043.jpg" tvg-name="OBS"  group-title="JP-KR",OBS
+https://iptvhome-ra2eye.cdn.byteark.com/OBS/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093557.jpg" tvg-name="OCN"  group-title="JP-KR",OCN
+https://iptvhome-ra2eye.cdn.byteark.com/OCN/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaomd2uhu1cxIkhNqBtmvQDOwFbnybEtQYq_ghcuFcSFvupHmC&usqp=CAU" tvg-name="QVC JP-KR"  group-title="JP-KR",QVC JP-KR
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093259.jpg" tvg-name="SBS"  group-title="JP-KR",SBS
+https://iptvhome-ra2eye.cdn.byteark.com/SBS/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKgMvbvKVXzH9yoQL9keS2HSJZ8CSATvhcJfCZfdOU1KIuO-2i&usqp=CAU" tvg-name="Shop Channel"  group-title="JP-KR",Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093410.jpg" tvg-name="SHOSUN TV(74)"  group-title="JP-KR",SHOSUN TV(74)
+https://iptvhome-ra2eye.cdn.byteark.com/74/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093942.jpg" tvg-name="SPOTV"  group-title="JP-KR",SPOTV
+https://iptvhome-ra2eye.cdn.byteark.com/SPOTV/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093952.jpg" tvg-name="SPOTV2"  group-title="JP-KR",SPOTV2
+https://iptvhome-ra2eye.cdn.byteark.com/SPOTV2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/XoDOeDW.png" tvg-name="Tokyo - Narita Airport"  group-title="JP-KR",Tokyo - Narita Airport
+http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-name="Tokyo MX1"  group-title="JP-KR",Tokyo MX1
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-name="Tokyo MX2"  group-title="JP-KR",Tokyo MX2
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093548.jpg" tvg-name="TVN"  group-title="JP-KR",TVN
+https://iptvhome-ra2eye.cdn.byteark.com/TVN/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-065559.jpg" tvg-name="wakuwaku JP-KR"  group-title="JP-KR",wakuwaku JP-KR
+https://live.tubtoeball.net/tubtoeball_app/wakuwakuJP-KR/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093401.jpg" tvg-name="YTN"  group-title="JP-KR",YTN
+https://iptvhome-ra2eye.cdn.byteark.com/YTN/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://img.JP-KRet.co.jp/shopping/img/senqua/header/logo.gif" tvg-name="ジャパネットチャンネルDX"  group-title="JP-KR",ジャパネットチャンネルDX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+
