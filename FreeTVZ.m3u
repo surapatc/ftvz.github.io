@@ -507,19 +507,22 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:-1, tvg-id="4001" tvg-logo="https://pbs.twimg.com/profile_images/1068041512259334146/fHIqp5i3_400x400.jpg" tvg-name="FTV.COM"  group-title="4.Entertainment",FTV.COM
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="4002" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025204.jpg" tvg-name="HD FASHION"  group-title="4.Entertainment",HD FASHION
+#EXTINF:-1, tvg-id="4002" tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190312_4bf8k0l4f89lh6b037facalel9539_240x149.jpg" tvg-name="Fashion TV"  group-title="4.Entertainment",Fashion TV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+
+#EXTINF:-1, tvg-id="4003" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025204.jpg" tvg-name="HD FASHION"  group-title="4.Entertainment",HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
-#EXTINF:-1, tvg-id="4002" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025204.jpg" tvg-name="HD FASHION"  group-title="4.Entertainment",HD FASHION
+#EXTINF:-1, tvg-id="4003" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025204.jpg" tvg-name="HD FASHION"  group-title="4.Entertainment",HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1, tvg-id="4003" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-yaers-fashion-tv-1186.jpg" tvg-name="YAERS FASHION TV"  group-title="4.Entertainment",YAERS FASHION TV
+#EXTINF:-1, tvg-id="4004" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-yaers-fashion-tv-1186.jpg" tvg-name="YAERS FASHION TV"  group-title="4.Entertainment",YAERS FASHION TV
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, tvg-id="4004" tvg-logo="https://sv1.picz.in.th/images/2020/12/01/jkNtPq.png" tvg-name="Playboy TV"  group-title="4.Entertainment",Playboy TV
+#EXTINF:-1, tvg-id="4005" tvg-logo="https://sv1.picz.in.th/images/2020/12/01/jkNtPq.png" tvg-name="Playboy TV"  group-title="4.Entertainment",Playboy TV
 https://cdn6.goprimetime.info/feed/LC54/index.m3u8
 
-#EXTINF:-1, tvg-id="4005" tvg-logo="https://images.i.thechive.com/profile_image/c70b9670513c6aecde3effaa8818489f.png" tvg-name="KALOOPY"  group-title="4.Entertainment",KALOOPY
+#EXTINF:-1, tvg-id="4006" tvg-logo="https://images.i.thechive.com/profile_image/c70b9670513c6aecde3effaa8818489f.png" tvg-name="KALOOPY"  group-title="4.Entertainment",KALOOPY
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.hkatv.com/images/atv_logo_200x200.png" tvg-name="ATV(CH)"  group-title="4.Entertainment",ATV(CH)
@@ -527,9 +530,6 @@ https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-025036.jpg" tvg-name="BBC MUSIC FOR YOU"  group-title="4.Entertainment",BBC MUSIC FOR YOU
 http://203.154.243.89:1213
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190312_4bf8k0l4f89lh6b037facalel9539_240x149.jpg" tvg-name="Fashion TV"  group-title="4.Entertainment",Fashion TV
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" tvg-name="KBS World"  group-title="4.Entertainment",KBS World
 http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
