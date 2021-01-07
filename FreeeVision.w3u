@@ -1,14 +1,14 @@
 {
-    "name": "FreeVisionZ",
+    "name": "FreeVision",
     "author": "Anonymous",
     "info": "by Anonymous",
     "image":"https://pbs.twimg.com/profile_images/1238583508/VisionZoomerTelevision.jpg",
-    "url": "http://tiny.cc/FreeVisionZ",
-    "stations":[
+    "url": "http://tiny.cc/FreeVision",
+    "groups":[
         {
             "name": "Digital.TV",
             "image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
-            "groups":[
+            "stations":[
                 {
                     "name": "ch5 ",
                     "image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
@@ -110,7 +110,7 @@
         {
             "name": "Movies",
             "image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
-            "groups":[
+            "stations":[
                 {
                     "name": "   star Chinese       ",
                     "image": "https://www.we-play.tv/wp-content/uploads/2020/09/star-chinese-channel.jpg",
@@ -314,7 +314,7 @@
         {
             "name": "Documentary",
             "image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
-            "groups":[
+            "stations":[
                 {
                     "name": "     gem     ",
                     "image": "https://www.we-play.tv/wp-content/uploads/2019/10/gem-1.jpg",
@@ -416,7 +416,7 @@
         {
             "name": "Entertainment",
             "image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
-            "groups":[
+            "stations":[
                 {
                     "name": "   M tv       ",
                     "image": "https://www.we-play.tv/wp-content/uploads/2019/05/mtv-live-hd.jpg",
@@ -440,7 +440,7 @@
         {
             "name": "Kids",
             "image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
-            "groups":[
+            "stations":[
                 {
                     "name": "  sparkplay        ",
                     "image": "https://www.doofree88.com/storage/live/KYjhTXfQVcTxrpn6weGXZcW214kCFPKbQvrqimcU.png",
@@ -554,7 +554,7 @@
         {
             "name": "Sports",
             "image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
-            "groups":[
+            "stations":[
                 {
                     "name": " True Premier Football HD 1 ",
                     "image": "https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg",
@@ -896,7 +896,7 @@
         {
             "name": "News",
             "image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
-            "groups":[
+            "stations":[
                 {
                     "name": " nhk world ",
                     "image": "https://www.we-play.tv/wp-content/uploads/2019/07/nhk-world.jpg",
