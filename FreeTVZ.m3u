@@ -507,7 +507,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:-1, tvg-id="4001" tvg-logo="https://pbs.twimg.com/profile_images/1068041512259334146/fHIqp5i3_400x400.jpg" tvg-name="FTV.COM"  group-title="4.Entertainment",FTV.COM
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="4002" tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190312_4bf8k0l4f89lh6b037facalel9539_240x149.jpg" tvg-name="Fashion TV"  group-title="4.Entertainment",Fashion TV
+#EXTINF:-1, tvg-id="4002" tvg-logo="https://pbs.twimg.com/profile_images/1068041512259334146/fHIqp5i3_400x400.jpg" tvg-name="Fashion TV"  group-title="4.Entertainment",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 
 #EXTINF:-1, tvg-id="4003" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025204.jpg" tvg-name="HD FASHION"  group-title="4.Entertainment",HD FASHION
