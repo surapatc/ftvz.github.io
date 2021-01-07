@@ -1,4 +1,6 @@
 ﻿#EXTM3U url="http://tiny.cc/FreeTVZ"
+#EXTVLCOPT:http-referrer=https://player.we-play.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 
 #EXTINF:-1, tvg-id="1001" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-073856.jpg" tvg-name="CH5"  group-title="1.Digital.TV",CH5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
