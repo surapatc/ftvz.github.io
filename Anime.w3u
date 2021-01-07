@@ -1,0 +1,239 @@
+{
+"name": "ANIME+",
+"author": "Baphomet",
+"image": "https://squidmantv.lfctv.online/wiselist-nw/image/animepluslogo.png",
+"url": "https://squidmantv.lfctv.online/wiselist-nw/animeplus.m3u8",
+"groups": [
+    {
+        "name": "อนิเมะพากย์ไทย",
+        "image": "https://squidmantv.lfctv.online/wiselist-nw/image/animepluslogo.png",
+        "url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=thai",
+        "import": false
+    },
+    {
+        "name": "อนิเมะซับไทย",
+        "image": "https://squidmantv.lfctv.online/wiselist-nw/image/animepluslogo.png",
+        "url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=soundtrack",
+        "import": false
+    },
+    {
+        "name": "อนิเมะคุณขอมา",
+        "image": "https://squidmantv.lfctv.online/wiselist-nw/image/animepluslogo.png",
+        "groups": [
+            {
+                "name": "The Prince of Tennis OVA",
+                "image": "https://cdn-img.movieclub.tv/img_series_vertical/17826.jpg",
+                "url": "https://squidmantv.lfctv.online/wiselist-nw/play.m3u8?type=anirequest&id=5637",
+                "userAgent": "Mozilla/5.0 (Linux; Android 9; cp3705A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36",
+                "import": false
+            },
+            {
+                "name": "ซูเปอร์เซ็นไตซีรีส์",
+                "image": "https://f.ptcdn.info/311/046/000/oe840v2q7oDejIx8VB1-o.jpg",
+                "groups": [
+                    {
+                        "name": "เซิฟเวอร์ 1",
+                        "image": "https://f.ptcdn.info/311/046/000/oe840v2q7oDejIx8VB1-o.jpg",
+                        "url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=sentai1",
+                        "userAgent": "Mozilla/5.0 (Linux; Android 9; cp3705A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36",
+                        "import": false
+                    },
+                    {
+                        "name": "เซิฟเวอร์ 2",
+                        "image": "https://f.ptcdn.info/311/046/000/oe840v2q7oDejIx8VB1-o.jpg",
+                        "url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=sentai2",
+                        "userAgent": "Mozilla/5.0 (Linux; Android 9; cp3705A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36",
+                        "import": false
+                    }
+                ]
+            },
+            {
+                "name": "ฤทธิ์หมัดดาวเหนือ ภาค 1",
+                "image": "https://cdn-img.movieclub.tv/img_series_vertical/17620.jpg",
+                "url": "https://squidmantv.lfctv.online/wiselist-nw/play.m3u8?type=anirequest&id=5629",
+                "userAgent": "Mozilla/5.0 (Linux; Android 9; cp3705A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36",
+                "import": false
+            },
+            {
+                "name": "ฤทธิ์หมัดดาวเหนือ ภาค 2 เพลงหมัดฟ้าคำราม",
+                "image": "https://cdn-img.movieclub.tv/img_series_vertical/17621.jpg",
+                "url": "https://squidmantv.lfctv.online/wiselist-nw/play.m3u8?type=anirequest&id=5630",
+                "userAgent": "Mozilla/5.0 (Linux; Android 9; cp3705A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36",
+                "import": false
+            },
+            {
+                "name": "JoJo Bizarre Adventure โจโจ้ ล่าข้ามศตวรรษ ภาค 1-2 [ซับไทย]",
+                "image": "https://cdn-img.movieclub.tv/img_series_vertical/29028.jpg",
+                "url": "https://squidmantv.lfctv.online/wiselist-nw/play.m3u8?type=anirequest&id=5821",
+                "userAgent": "Mozilla/5.0 (Linux; Android 9; cp3705A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36",
+                "import": false
+            },
+            {
+                "name": "JoJo Bizarre Adventure Stardust Crusaders โจโจ้ ล่าข้ามศตวรรษ ภาค 3 [ซับไทย]",
+                "image": "https://cdn-img.movieclub.tv/img_series_vertical/29029.jpg",
+                "url": "https://squidmantv.lfctv.online/wiselist-nw/play.m3u8?type=anirequest&id=5822",
+                "userAgent": "Mozilla/5.0 (Linux; Android 9; cp3705A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36",
+                "import": false
+            },
+            {
+                "name": "JoJo Bizarre Adventure-Diamond is Unbreakable โจโจ้ ล่าข้ามศตวรรษ ภาค 4 [ซับไทย]",
+                "image": "https://cdn-img.movieclub.tv/img_series_vertical/29032.jpg",
+                "url": "https://squidmantv.lfctv.online/wiselist-nw/play.m3u8?type=anirequest&id=5823",
+                "userAgent": "Mozilla/5.0 (Linux; Android 9; cp3705A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36",
+                "import": false
+            }
+        ]
+    },
+    {
+        "name": "วันพีซ",
+        "image": "https://squidmantv.lfctv.online/wiselist-nw/image/onepiece.gif",
+        "url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=onepiece",
+        "import": false
+    },
+    {
+        "name": "แฟรี่เทล",
+        "image": "https://squidmantv.lfctv.online/wiselist-nw/image/fairytail.gif",
+        "url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=fairytail",
+        "import": false
+    },
+    {
+        "name": "นารูโตะ",
+        "image": "https://squidmantv.lfctv.online/wiselist-nw/image/naruto.gif",
+        "url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=naruto",
+        "import": false
+    },
+    {
+        "name": "ดราก้อนบอล",
+        "image": "https://squidmantv.lfctv.online/wiselist-nw/image/dragonball.gif",
+        "import": false,
+        "groups": [
+            {
+                "name": "ดราก้อนบอลซีรีส์",
+                "image": "https://squidmantv.lfctv.online/wiselist-nw/image/dragonball.gif",
+                "url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=dragonball",
+                "import": false
+            },
+            {
+                "name": "ดราก้อนบอลเดอะมูฟวี่",
+                "image": "https://squidmantv.lfctv.online/wiselist-nw/image/dragonball.gif",
+                "url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=dragonballmov",
+                "import": false
+            }
+        ]
+    },
+    {
+        "name": "โดราเอม่อน",
+        "image": "https://squidmantv.lfctv.online/wiselist-nw/image/doraemon.gif",
+        "import": false,
+        "groups": [
+            {
+                "name": "โดราเอม่อนซีรีส์",
+                "image": "https://squidmantv.lfctv.online/wiselist-nw/image/doraemon.gif",
+                "url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=doraemon",
+                "import": false
+            },
+            {
+                "name": "โดราเอม่อนเดอะมูฟวี่",
+                "image": "https://squidmantv.lfctv.online/wiselist-nw/image/doraemon.gif",
+                "url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=doraemonmov",
+                "import": false
+            }
+        ]
+    },
+    {
+        "name": "โปเกม่อน",
+        "image": "https://squidmantv.lfctv.online/wiselist-nw/image/pokemon.gif",
+        "import": false,
+        "groups": [
+            {
+                "name": "โปเกม่อนซีรีส์",
+                "image": "https://squidmantv.lfctv.online/wiselist-nw/image/pokemon.gif",
+                "url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=pokemon",
+                "import": false
+            },
+            {
+                "name": "โปเกม่อนเดอะมูฟวี่",
+                "image": "https://squidmantv.lfctv.online/wiselist-nw/image/pokemon.gif",
+                "url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=pokemonmov",
+                "import": false
+            }
+        ]
+    },
+    {
+        "name": "โคนัน",
+        "image": "https://squidmantv.lfctv.online/wiselist-nw/image/conan.gif",
+        "import": false,
+        "groups": [
+            {
+                "name": "โคนันซีรีส์",
+"image": "https://squidmantv.lfctv.online/wiselist-nw/image/conan.gif",
+"url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=conan",
+"import": false
+},
+{
+"name": "โคนันเดอะมูฟวี่",
+"image": "https://squidmantv.lfctv.online/wiselist-nw/image/conan.gif",
+"url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=conanmov",
+"import": false
+}
+]
+},
+{
+"name": "อุลตร้าแมน",
+"image": "https://squidmantv.lfctv.online/wiselist-nw/image/ultraman.gif",
+"import": false,
+"groups": [
+{
+"name": "อุลตร้าแมนซีรีส์",
+"image": "https://squidmantv.lfctv.online/wiselist-nw/image/ultraman.gif",
+"url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=ultraman",
+"import": false
+},
+{
+"name": "อุลตร้าแมนเดอะมูฟวี่",
+"image": "https://squidmantv.lfctv.online/wiselist-nw/image/ultraman.gif",
+"url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=ultramanmov",
+"import": false
+}
+]
+},
+{
+"name": "คาเมนไรเดอร์",
+"image": "https://squidmantv.lfctv.online/wiselist-nw/image/rider.gif",
+"import": false,
+"groups": [
+{
+"name": "คาเมนไรเดอร์ซีรีส์",
+"image": "https://squidmantv.lfctv.online/wiselist-nw/image/rider.gif",
+"url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=kamenrider",
+"import": false
+},
+{
+"name": "คาเมนไรเดอร์เดอะมูฟวี่",
+"image": "https://squidmantv.lfctv.online/wiselist-nw/image/rider.gif",
+"url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=kamenridermov",
+"import": false
+}
+]
+},
+{
+"name": "บาร์บี้",
+"image": "https://squidmantv.lfctv.online/wiselist-nw/image/barbie.gif",
+"import": false,
+"groups": [
+{
+"name": "บาร์บี้เดอะซีรีส์",
+"image": "https://squidmantv.lfctv.online/wiselist-nw/image/barbie.gif",
+"url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=barbie",
+"import": false
+},
+{
+"name": "บาร์บี้เดอะมูฟวี่",
+"image": "https://squidmantv.lfctv.online/wiselist-nw/image/barbie.gif",
+"url": "https://squidmantv.lfctv.online/wiselist-nw/anime.m3u8?type=barbiemov",
+"import": false
+}
+]
+}
+]
+};
