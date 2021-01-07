@@ -11,7 +11,7 @@ https://doofootball.livestream-cdn.com/iptv/sd-nbt.stream/chunks.m3u8
 #EXTINF:-1, tvg-id="1002" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074028.jpg" tvg-name="NBT"  group-title="1.Digital.TV",NBT
 http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
 
-#EXTINF:-1, tvg-id="1002" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074028.jpg" tvg-name="NBT"  group-title="1.Digital.TV",NBT
+#EXTINF:-1, tvg-id="1002" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074028.jpg" tvg-name="NBT-X"  group-title="1.Digital.TV",NBT
 https://www.livedoomovies.com/02_NBTSD_480p/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="1003" tvg-logo="http://thaiip.tv/tvlogo2/3.png" tvg-name="TPBS"  group-title="1.Digital.TV",TPBS
