@@ -7,7 +7,7 @@
     "groups":[
         {
             "name": "Digital.TV",
-            "image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/510px-Flag_of_Thailand.svg.png",
             "stations":[
                 {
                     "name": "ch5 ",
@@ -109,7 +109,7 @@
         },
         {
             "name": "Movies",
-            "image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
+            "image": "https://i.pinimg.com/originals/c1/c7/b7/c1c7b72499e305da196932cc4ef89f41.gif",
             "stations":[
                 {
                     "name": "   star Chinese       ",
@@ -313,7 +313,7 @@
         },
         {
             "name": "Documentary",
-            "image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
+            "image": "http://rainforestmovie.ca/w1/wp-content/uploads/logo-documentary.jpg",
             "stations":[
                 {
                     "name": "     gem     ",
@@ -415,7 +415,7 @@
         },    
         {
             "name": "Entertainment",
-            "image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
+            "image": "https://pbs.twimg.com/profile_images/892744367449964544/TTPUoKHv_400x400.jpg",
             "stations":[
                 {
                     "name": "   M tv       ",
@@ -439,7 +439,7 @@
         },
         {
             "name": "Kids",
-            "image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
+            "image": "https://images.megapixl.com/4907/49070655.jpg",
             "stations":[
                 {
                     "name": "  sparkplay        ",
@@ -553,7 +553,7 @@
         },
         {
             "name": "Sports",
-            "image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
+            "image": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
             "stations":[
                 {
                     "name": " True Premier Football HD 1 ",
@@ -895,7 +895,7 @@
         },
         {
             "name": "News",
-            "image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
+            "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d77a6343106623.57e3765daad26.jpg",
             "stations":[
                 {
                     "name": " nhk world ",
