@@ -527,6 +527,15 @@ https://cdn6.goprimetime.info/feed/LC54/index.m3u8
 #EXTINF:-1, tvg-id="4006" tvg-logo="https://images.i.thechive.com/profile_image/c70b9670513c6aecde3effaa8818489f.png" tvg-name="KALOOPY"  group-title="4.Entertainment",KALOOPY
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.pngkit.com/png/detail/236-2368161_sexy-hot-logo-png.png" tvg-name="HOT"  group-title="4.Entertainment",HOT
+http://s846397078.mialojamiento.es/m.php?ch=hot
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.parsatv.com/index_files/channels/jasmintv.png" tvg-name="JASMIN.TV"  group-title="4.Entertainment",JASMIN
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg" tvg-name="VENUS"  group-title="4.Entertainment",VENUS
+http://s846397078.mialojamiento.es/m.php?ch=venushttps://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.hkatv.com/images/atv_logo_200x200.png" tvg-name="ATV(CH)"  group-title="4.Entertainment",ATV(CH)
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 
