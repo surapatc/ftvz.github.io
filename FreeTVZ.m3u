@@ -534,6 +534,7 @@ http://s846397078.mialojamiento.es/m.php?ch=hot
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg" tvg-name="VENUS"  group-title="4.Entertainment",VENUS
+#EXTVLCOPT:http-referrer=http://photocall.tv/
 http://s846397078.mialojamiento.es/m.php?ch=venushttps://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.hkatv.com/images/atv_logo_200x200.png" tvg-name="ATV(CH)"  group-title="4.Entertainment",ATV(CH)
