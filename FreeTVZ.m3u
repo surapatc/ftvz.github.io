@@ -527,7 +527,7 @@ https://cdn6.goprimetime.info/feed/LC54/index.m3u8
 #EXTINF:-1, tvg-id="4006" tvg-logo="https://images.i.thechive.com/profile_image/c70b9670513c6aecde3effaa8818489f.png" tvg-name="KALOOPY"  group-title="4.Entertainment",KALOOPY
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.pngkit.com/png/detail/236-2368161_sexy-hot-logo-png.png" tvg-name="HOT"  group-title="4.Entertainment",HOT
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/10/Dusk_logo.png?fit=200%2C200&ssl=1&resize=350%2C200" tvg-name="DUSK"  group-title="4.Entertainment",HOT
 http://s846397078.mialojamiento.es/m.php?ch=hot
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.parsatv.com/index_files/channels/jasmintv.png" tvg-name="JASMIN.TV"  group-title="4.Entertainment",JASMIN
