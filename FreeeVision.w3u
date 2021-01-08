@@ -417,6 +417,38 @@
             "name": "Entertainment",
             "image": "https://seeklogo.com/images/M/mtv-entertainment-logo-30033BCC43-seeklogo.com.png",
             "stations":[
+				{
+					"name": "Playboy TV",
+					"image": "https://sv1.picz.in.th/images/2020/12/01/jkNtPq.png",
+					"url": "https://cdn6.goprimetime.info/feed/LC54/index.m3u8",
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "Jasmin TV",
+					"image": "https://www.parsatv.com/index_files/channels/jasmintv.png",
+					"url": "http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8",
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "KALOOPY",
+					"image": "https://images.i.thechive.com/profile_image/c70b9670513c6aecde3effaa8818489f.png",
+					"url": "https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8",
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "DUSK",
+					"image": "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/10/Dusk_logo.png?fit=200%2C200&ssl=1&resize=350%2C200",
+					"url": "http://s846397078.mialojamiento.es/m.php?ch=hot",
+					"referer": "http://photocall.tv/",
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "Venus",
+					"image": "https://vignette.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg",
+					"url": "http://s846397078.mialojamiento.es/m.php?ch=venus",
+					"referer": "http://photocall.tv/",
+					"playInNatPlayer": "true"
+				},
                 {
                     "name": "   M tv       ",
                     "image": "https://www.we-play.tv/wp-content/uploads/2019/05/mtv-live-hd.jpg",
